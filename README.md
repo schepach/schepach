@@ -11,14 +11,14 @@ My name is Alex!
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=schepach&layout=compact&theme=graywhite"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schepach&layout=compact&theme=graywhite"
     />
   </a>
   <a href="https://github.com/schepach?tab=repositories">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=schepach&count_private=true&show_icons=true&theme=graywhite"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=schepach&count_private=true&show_icons=true&theme=graywhite"
     />
   </a>
 </p>
