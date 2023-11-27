@@ -11,7 +11,4 @@ Now I am a freelancer and my main focus is Telegram bot development.
 - ➡️ Work with Telegram Bot API, VK API, Google API, Yandex API, web page parsing
 - ➡️ Work with payments in Telegram
 
-**Also I have:**
-- 💼 a  [portfolio](http://alexoblomov.ru)
-- 👨🏻‍💻 a profile in the [KWORK](https://kwork.ru/user/alexoblomov) freelance marketplace
-- ✍️ a Telegram channel [alexeywrites](https://t.me/alexeywrites) where I write posts about development, freelance and self-development
+My web page with portfolio and all information 👉 [Alex Oblomov](https://telegra.ph/Alex-Oblomov-11-22)
